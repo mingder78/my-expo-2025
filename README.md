@@ -4,7 +4,7 @@ Use [Expo Router](https://docs.expo.dev/router/introduction/) with [AI SDK](http
 
 ## Launch your own
 
-[![Launch with Expo](https://github.com/expo/examples/blob/master/.gh-assets/launch.svg?raw=true)](https://launch.expo.dev/?github=https://github.com/expo/examples/tree/master/with-router-ai)
+[![Launch with Expo](https://github.com/expo/examples/blob/master/.gh-assets/launch.svg?raw=true)](https://launch.expo.dev/?github=https://github.com/mingder78/my-expo-2025)
 
 ## 🚀 How to use
 
