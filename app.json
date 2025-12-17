@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "server"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "my-expo-2025",
+    "slug": "my-expo-2025"
+  }
+}
